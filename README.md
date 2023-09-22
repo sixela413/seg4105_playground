@@ -1,7 +1,9 @@
-Student Name: Alexis Verana 
-
-
-Student Number: 300116080
+|  |  |
+| --- | --- |
+| Course | SEG 4105|
+| Term | Fall, 2023 |
+| Professor | Andrew Forward, aforward@uottawa.ca |
+| My Student Information | Alexis Verana, 300116080 |
 
 ## Synopsis
 
