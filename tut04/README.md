@@ -29,16 +29,16 @@ If a product already exists the company is just going through the motions of sha
 Production mode is what comes after R&D. This is where the team of seniors bring in other people to contribute. The production mode is organized in formal cycles. The shaping of the product is deliberate. In this stage, it is possible to have bets in parallel. The goal of this step is to ship, but shipping in this stage means pushing into the main codebase. Before launch, there is a possibility for features to be removed. This is done during the final cleanup held right before launch. The cleanup should not last longer than two weeks. 
  
 Questions that should be asked during the betting table includes: 
-*Does the problem matter? 
--Is there a way to narrow it down so we can get 80% of the benefit from 20% of the change?*
-*Is the appetite right?
--Sometimes you have to ask more questions when making your pitch.
--Ask seniors how they would feel if it can be done in two weeks.
--If they say they don’t want to add another dependency that is fair.
-*Is the solution attractive? 
--A few points of disagreement about the solution may come up during pitch.
-*Is it the right time?
--Has it been too long since a splash of news with a new feature has been made?
--Have there been too many updates on one feature recently?
-*Are the right people available?
+* Does the problem matter? 
+- Is there a way to narrow it down so we can get 80% of the benefit from 20% of the change?*
+* Is the appetite right?
+- Sometimes you have to ask more questions when making your pitch.
+- Ask seniors how they would feel if it can be done in two weeks.
+- If they say they don’t want to add another dependency that is fair.
+* Is the solution attractive? 
+- A few points of disagreement about the solution may come up during pitch.
+* Is it the right time?
+- Has it been too long since a splash of news with a new feature has been made?
+- Have there been too many updates on one feature recently?
+* Are the right people available?
 
