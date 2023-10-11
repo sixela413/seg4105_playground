@@ -18,7 +18,7 @@ The current issue with the current dashboard is that it is static. The dashboard
 This is an image of the breadboarding for the new feature. 
 
 
-![Breadboarding.](https://github.com/sixela413/seg4105_playground/tree/main/deliverable1\shaping.jpg)
+![Breadboarding.](shaping.jpg)
 
 ## Rabbit Holes
 A potential rabbit hole of this feature would be getting caught up in the individual components. The components of the dashboard have already been worked on and finalized. The current feature is to improve the overall dashboard, not the individual components. We would not want to get into a rabbit hole of bugs looking into the individual components.
