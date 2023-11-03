@@ -6,7 +6,7 @@
 | My Student Information | Alexis Verana, 300116080 |
 | Lab| 5 |
 
-## Tracking Betting Table & Toold Used
+## Tracking Betting Table & Tools Used
 
 <ul>
 
